@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## how-to-apply-RippleEffect-android
 
 You can use the [editor on GitHub](https://github.com/VipulDamor/how-to-apply-RippleEffect-android/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
